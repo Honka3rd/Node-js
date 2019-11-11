@@ -1,0 +1,21 @@
+{
+  "name": "get-user-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "note.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.7",
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "validator": "^12.0.0",
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
